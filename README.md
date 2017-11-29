@@ -1,2 +1,2 @@
 # java-snippets
-A library with usful java-snippets
+A library with useful java-snippets
